@@ -10,7 +10,6 @@ const getAuthorsQuery = gql`
   }
 `
 
-
 const getBooksQuery = gql`
   {
     books {
